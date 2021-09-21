@@ -1,7 +1,13 @@
 # site-finans
 
-Site fictício de um banco digital, proposto no curso Desenvolvimento Web Completo 2021.
+<br/>
 
-Desenvolvido com Bootstrap.
+<!--gif presentation of the page-->
+![Apresentação da pagina](https://github.com/IsadoraVanderlan/site-finans-bootstrap/blob/main/presentation.gif)
+<br/><hr/>
 
-Desenvolvido por Jamilton Damasceno.
+Fictitious website of a digital bank, proposed in the 2021 Complete Web Development course.
+
+Developed with Bootstrap.
+
+By Jamilton Damasceno.
