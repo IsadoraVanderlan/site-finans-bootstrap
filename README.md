@@ -7,8 +7,7 @@
 
 <br/>
 
-<a href="https://isadoravanderlan.github.io/site-finans-bootstrap/
-">Click here to see the project</a>
+<a href="https://isadoravanderlan.github.io/site-finans-bootstrap/">Click here to see the project</a>
 <br/><hr/>
 
 
