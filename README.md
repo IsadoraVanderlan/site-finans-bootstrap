@@ -12,7 +12,6 @@
 
 
 Fictitious website of a digital bank, proposed in the 2021 Complete Web Development course.
-
 Developed with Bootstrap.
 
 By Jamilton Damasceno.
